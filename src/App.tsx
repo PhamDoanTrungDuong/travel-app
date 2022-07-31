@@ -1,4 +1,4 @@
-import Carousel from "./components/carousel";
+import Carousel from "./components/Carousel";
 import Destination from "./components/Destination";
 import Footer from "./components/Footer";
 import Hero from "./components/Hero";
